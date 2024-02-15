@@ -1,7 +1,3 @@
-# WeatherApp
-
-# Image
-
 # NodeJS Weather Web App
 
 This NodeJS Weather Web App is a simple web application that allows users to check the current weather conditions for a specific location. It utilizes the [WeatherAPI](https://www.weatherapi.com/) to retrieve real-time weather data.
